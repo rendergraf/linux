@@ -3,7 +3,7 @@ VERSION = 5
 PATCHLEVEL = 17
 SUBLEVEL = 0
 EXTRAVERSION = -rc2
-NAME = Gobble Gobble
+NAME = サトシの
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
